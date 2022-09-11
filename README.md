@@ -11,5 +11,6 @@
 
 <br/>
 
+#The Class Diagram:
 
 ![The Maze Class Diagram](https://user-images.githubusercontent.com/81302085/189532903-d1fdb258-0559-4de9-80f7-11b80d0e467b.jpg)
