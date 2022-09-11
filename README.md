@@ -1,4 +1,5 @@
 # The Maze
+<p>Generate the basic structure for the famous game by using the Solid principle, class diagrams tools, and the popular search algorithms</p>
 
 
 
